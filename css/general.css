@@ -35,7 +35,7 @@ img {
 }
 
 .masthead {
-    background-color: #8B0000;
+    background-color: #20B2AA;
     overflow:hidden;
     
 }
@@ -53,8 +53,10 @@ article {
 }
 
 h1 {
-    padding: 0 35%;
-    font-size: 3rem
+    font-size: 3rem;
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 figure {
@@ -68,7 +70,7 @@ figcaption {
 }
 
 h2 {
-    color: #8B0000;
+    color: #A52A2A;
     font-size: 2rem
 }
  
@@ -78,7 +80,9 @@ hr {
     border:dashed
 }
 
-
+footer {
+    overflow:hidden;
+}
     
     
     
